@@ -2,11 +2,11 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4500&pause=700&color=FFFFFF&center=true&vCenter=true&width=600&lines=»+Hello+World!+I%C2%B4m+Vin%C3%ADcius+Lima+%C2%AB;✦+Full-Stack+Developer+and+UI/UX+Specialist+✦)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&background=03FF0000&center=true&vCenter=true&width=435&lines=%C2%BB+Welcome+to+my+profile+%C2%AB;Full-Stack+Developer;UI%2FUX+Specialist)](https://git.io/typing-svg)
 
 </div>
 
-## **» About Me:**
+### <p align="center"><strong>྾ About me ྾</strong></p>
 
 - 🔭 Currently focused on **Front-End Development**
 - 🌱 Learning **TypeScript**, **Next.js**, and enhancing my **UI/UX skills**
@@ -33,9 +33,7 @@
 #### » Tools & Others:
 <img src="https://skillicons.dev/icons?i=discord,ps,vite,git,vercel,figma">
 
-<br>
-
----
+<br><br>
 
 ### <p align="center"><strong>྾ Contact me ྾</strong></p>
 <p align="center">
@@ -55,7 +53,7 @@
     <img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=githubpages&logoColor=black" />
   </a>
 </p>
-<br>
+<br><br>
 
 <div align="center">
 
