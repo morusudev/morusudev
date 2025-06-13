@@ -1,23 +1,17 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ffffff&section=header" />
 
 <div align="center">
+<img src="assets/1337.gif" width="700px">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&background=03FF0000&center=true&vCenter=true&width=435&lines=%C2%BB+Welcome+to+my+profile+%C2%AB;Full-Stack+Developer;UI%2FUX+Specialist)](https://git.io/typing-svg)
 
 </div>
 
-### <p align="center"><strong>྾ About me ྾</strong></p>
-
+### <p align="center"><strong>྾ About me ྾</strong></p><br>
 - 🔭 Currently focused on **Front-End Development**
 - 🌱 Learning **TypeScript**, **Next.js**, and enhancing my **UI/UX skills**
 <!-- - 📫 Reach me at: **gvlima.contato@gmail.com** -->
-
-<!-- <div align="center">
-  
- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExend1YnQ3ZXZ5NXRxczc0cjNybjEydXI3eWJwYm15bThqMDJsbmJ2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9jNziFTMfzSumAw/giphy.gif" width="500" /> 
-
-</div> -->
-
+<br><br>
 ---
 
 ### <p align="center"><strong>྾ Tech Stack ྾</strong></p>
