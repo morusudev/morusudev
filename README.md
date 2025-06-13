@@ -22,22 +22,22 @@
 
 ### <p align="center"><strong>྾ Tech Stack ྾</strong></p>
 
-#### ﹂ Front-End
+#### » Front-End:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morusudev&langs_count=8&theme=graywhite" alt="Anurag's GitHub stats" align="right">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap">
+<img src="https://skillicons.dev/icons?i= ,html,css,js,react,tailwind,bootstrap">
 
-#### ﹂ Back-End
-<img src="https://skillicons.dev/icons?i=py,c,nodejs,mysql,firebase">
+#### » Back-End:
+<img src="https://skillicons.dev/icons?i= ,py,c,nodejs,mysql,firebase">
 
-#### ﹂ Tools & Others
-<img src="https://skillicons.dev/icons?i=discord,ps,vite,git,vercel,figma">
+#### » Tools & Others:
+<img src="https://skillicons.dev/icons?i= ,discord,ps,vite,git,vercel,figma">
 
 <br>
 
 ---
 
-## <p align="center"><strong>྾ Contact me ྾</strong></p>
+### <p align="center"><strong>྾ Contact me ྾</strong></p>
 <p align="center">
   <a href="https://www.instagram.com/morusu.ink" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=black" />
