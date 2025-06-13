@@ -25,42 +25,49 @@
 ### ﹂ Front-End
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morusudev&langs_count=8&theme=graywhite" alt="Anurag's GitHub stats" align="right">
 
-![Front-End](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,firebase)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap">
+
 
 ### ﹂ Back-End
-![Back-End](https://skillicons.dev/icons?i=py,c,nodejs,mysql)
+<img src="https://skillicons.dev/icons?i=py,c,nodejs,mysql,firebase">
 
 ### ﹂ Tools & Others
-![Tools](https://skillicons.dev/icons?i=discord,ps,vite,git,vercel,figma)
+<img src="https://skillicons.dev/icons?i=discord,ps,vite,git,vercel,figma">
 
 ---
 
-<p align="center" style="font-size:20px"><strong>Contact me:</strong></p>
+<p align="center" style="font-size:30px"><strong>Contact me:</strong></p>
 <p align="center">
   <a href="https://www.instagram.com/morusu.ink" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=black" />
+    <img src="https://img.shields.io/badge/Instagram-101430?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/vin%C3%ADcius-lima-738603284/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=black" />
+    <img src="https://img.shields.io/badge/LinkedIn-101430?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://discord.gg/7zS4wEdtdk" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-ffffff?style=for-the-badge&logo=discord&logoColor=black" />
+    <img src="https://img.shields.io/badge/Discord-101430?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="mailto:gvlima.contato@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=black" />
+    <img src="https://img.shields.io/badge/Gmail-101430?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://morusudev.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=githubpages&logoColor=black" />
+    <img src="https://img.shields.io/badge/Portfolio-101430?style=for-the-badge&logo=githubpages&logoColor=white" />
   </a>
 </p>
-
-
 <br>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=morusudev&theme=graywhite&show_icons=true&rank_icon=github&border_radius=10&hide_title=true&icon_color=000000" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morusudev&theme=graywhite&layout=compact&langs_count=8&hide_border=false" />
-</p>
+<div align="center">
+  <img height="180em" align=left src="https://github-readme-stats.vercel.app/api?username=morusudev&theme=graywhite&show_icons=true&rank_icon=github&border_radius=10&hide_title=true&icon_color=000000" />
+
+  <img height="180em" align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=morusudev&layout=donut-vertical&border_radius=10" />
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ffffff&section=footer"/>
+
+
+## 📋 GitHub Summary Card
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=morusudev&theme=graywhite)
 
 <!-- Snake contribution grid animation (optional) -->
 <!--
@@ -71,5 +78,4 @@
 </picture>
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ffffff&section=footer"/>
 
