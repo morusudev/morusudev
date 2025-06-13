@@ -20,7 +20,7 @@
 
 ---
 
-## <p align="center"><strong>྾ Tech Stack ྾</strong></p>
+### <p align="center"><strong>྾ Tech Stack ྾</strong></p>
 
 ### ﹂ Front-End
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morusudev&langs_count=8&theme=graywhite" alt="Anurag's GitHub stats" align="right">
