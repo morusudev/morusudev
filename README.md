@@ -19,7 +19,7 @@
 #
 
 <h2 style="align: center">»「 My skills 」«</h2>
-<div style="text-align: center;" align="center""><br>
+<div style="text-align: start;"><br>
   <div style="text-align: start">
     <h3>﹂ Front End</h3>
     <img align="center" alt="Morusu-Js" src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,firebase">
