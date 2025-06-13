@@ -1,5 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ffffff&section=header" />
-
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ffffff&section=header" /> -->
 <div align="center">
 <img src="assets/1337.gif" width="700px">
 
