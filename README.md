@@ -6,7 +6,7 @@
   </a>
 </div>
 
-<h2 align=center>» I'm a Full-Stack Developer and Illustrator/Graphic Designer «</h2><br>
+<h2 align=center>» I'm a Full-Stack Developer & UI/UX Specialist «</h2><br>
 
 <!-- <img align="right" alt="" height="190px" src="./src/baixados.gif">-->
 
