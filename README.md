@@ -38,19 +38,19 @@
 ### <p align="center"><strong>྾ Contact me ྾</strong></p>
 <p align="center">
   <a href="https://www.instagram.com/morusu.ink" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=black" />
+    <img src="https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=black" height="35"/>
   </a>
   <a href="https://www.linkedin.com/in/vin%C3%ADcius-lima-738603284/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=black" />
+    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=black" height="35"/>
   </a>
   <a href="https://discord.gg/7zS4wEdtdk" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-ffffff?style=for-the-badge&logo=discord&logoColor=black" />
+    <img src="https://img.shields.io/badge/Discord-ffffff?style=for-the-badge&logo=discord&logoColor=black" height="35"/>
   </a>
   <a href="mailto:gvlima.contato@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=black" />
+    <img src="https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=black" height="35"/>
   </a>
   <a href="https://morusudev.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=githubpages&logoColor=black" />
+    <img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=githubpages&logoColor=black" height="35"/>
   </a>
 </p>
 <br><br>
