@@ -20,7 +20,7 @@
 
 ---
 
-## **» Tech Stack:**
+<p align="center" style="font-size:40px"><strong>྾ Tech Stack ྾</strong></p>
 
 ### ﹂ Front-End
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morusudev&langs_count=8&theme=graywhite" alt="Anurag's GitHub stats" align="right">
@@ -35,7 +35,7 @@
 
 ---
 
-<p align="center" style="font-size:30px"><strong>Contact me:</strong></p>
+<p align="center" style="font-size:40px"><strong>྾ Contact me ྾</strong></p>
 <p align="center">
   <a href="https://www.instagram.com/morusu.ink" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=black" />
