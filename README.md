@@ -27,7 +27,6 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap">
 
-
 ### ﹂ Back-End
 <img src="https://skillicons.dev/icons?i=py,c,nodejs,mysql,firebase">
 
@@ -39,19 +38,19 @@
 <p align="center" style="font-size:30px"><strong>Contact me:</strong></p>
 <p align="center">
   <a href="https://www.instagram.com/morusu.ink" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-101430?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=black" />
   </a>
   <a href="https://www.linkedin.com/in/vin%C3%ADcius-lima-738603284/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-101430?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
   <a href="https://discord.gg/7zS4wEdtdk" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-101430?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-ffffff?style=for-the-badge&logo=discord&logoColor=black" />
   </a>
   <a href="mailto:gvlima.contato@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-101430?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
   <a href="https://morusudev.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-101430?style=for-the-badge&logo=githubpages&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=githubpages&logoColor=black" />
   </a>
 </p>
 <br>
