@@ -2,8 +2,16 @@
 <div align="center">
 <img src="assets/1337.gif" width="700px">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&background=03FF0000&center=true&vCenter=true&width=435&lines=%C2%BB+Welcome+to+my+profile+%C2%AB;Full-Stack+Developer;UI%2FUX+Specialist)](https://git.io/typing-svg)
+<br>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&background=03FF0000&center=true&vCenter=true&width=435&lines=%C2%BB+Full-Stack+Developer+%C2%AB;%C2%BB+UI%2FUX+Specialist+%C2%AB;%C2%BB+JavaScript+Enthusiast++%C2%AB)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+  | ![](https://github-readme-stats.vercel.app/api?username=morusudev&theme=graywhite&show_icons=true&rank_icon=github&border_radius=10&hide_title=true&icon_color=000000) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=morusudev&theme=graywhite&utcOffset=8) |
+| :-: | :-: | 
 </div>
 
 ### <p align="center"><strong>྾ About me ྾</strong></p><br>
@@ -11,7 +19,6 @@
 - 🌱 Learning **TypeScript**, **Next.js**, and enhancing my **UI/UX skills**
 <!-- - 📫 Reach me at: **gvlima.contato@gmail.com** -->
 <br><br>
----
 
 ### <p align="center"><strong>྾ Tech Stack ྾</strong></p>
 
@@ -47,13 +54,6 @@
   </a>
 </p>
 <br><br>
-
-<div align="center">
-
-  | ![](https://github-readme-stats.vercel.app/api?username=morusudev&theme=graywhite&show_icons=true&rank_icon=github&border_radius=10&hide_title=true&icon_color=000000) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=morusudev&theme=graywhite&utcOffset=8) |
-| :-: | :-: | 
-
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ffffff&section=footer"/>
 
