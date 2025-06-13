@@ -59,15 +59,12 @@
 <div align="center">
   <img height="180em" align=left src="https://github-readme-stats.vercel.app/api?username=morusudev&theme=graywhite&show_icons=true&rank_icon=github&border_radius=10&hide_title=true&icon_color=000000" />
 
-  <img height="180em" align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=morusudev&layout=donut-vertical&border_radius=10" />
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=morusudev&theme=graywhite&utcOffset=8)>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ffffff&section=footer"/>
 
 
-## 📋 GitHub Summary Card
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=morusudev&theme=graywhite)
 
 <!-- Snake contribution grid animation (optional) -->
 <!--
