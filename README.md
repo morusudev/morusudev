@@ -1,112 +1,75 @@
-
- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=fff"/> 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ffffff&section=header" />
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4500&pause=700&color=F76B04&width=451&lines=%C2%BB+Hello+World!+I%C2%B4m+Vin%C3%ADcius+Lima+%C2%AB;%E2%9C%A6+Welcome+to+my+profile!+%E2%9C%A6" alt="Typing SVG">
-  </a>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4500&pause=700&color=FFFFFF&center=true&vCenter=true&width=600&lines=»+Hello+World!+I%C2%B4m+Vin%C3%ADcius+Lima+%C2%AB;✦+Full-Stack+Developer+and+UI/UX+Specialist+✦)](https://git.io/typing-svg)
+
 </div>
 
-<h2 align=center>» I'm a Full-Stack Developer & UI/UX Specialist «</h2><br>
+## **» About Me:**
 
+- 🔭 Currently focused on **Front-End Development**
+- 🌱 Learning **TypeScript**, **Next.js**, and enhancing my **UI/UX skills**
+<!-- - 📫 Reach me at: **gvlima.contato@gmail.com** -->
 
-<div align="left">
-⌜ 🔭 Today I develop more front-end,<br><br>
-⌜ 🌱 Lately studying TypeScript and Next,<br><br>
-⌜ 📫 Contact me at email: gvlima.contato@gmail.com<br>
-</div><br>
+<!-- <div align="center">
+  
+ <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExend1YnQ3ZXZ5NXRxczc0cjNybjEydXI3eWJwYm15bThqMDJsbmJ2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9jNziFTMfzSumAw/giphy.gif" width="500" /> 
 
-#
+</div> -->
 
-<h2 style="align: center">»「 My skills 」«</h2>
-<div style="text-align: start;"><br>
-  <div style="text-align: start">
-    <h3>﹂ Front End</h3>
-    <img align="center" alt="Morusu-Js" src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,firebase">
-  </div>
-  <div style="text-align: start">
-    <h3>﹂ Back-end</h3>
-    <img align="center" alt="Morusu-Js" src="https://skillicons.dev/icons?i=py,c,nodejs,mysql">
-  </div>
-  <div style="text-align: start">
-    <h3>﹂ Outhers Tools</h3>
-    <img align="center" alt="Morusu-Js" src="https://skillicons.dev/icons?i=discord,ps,vite,git,vercel,figma">
-  </div>
-</div><br><br>
+---
 
-<h3 align=center> »「 Socials 」«</h3><br>
-<div style="text-align: center;" align="center"> 
+## **» Tech Stack:**
+
+### ﹂ Front-End
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morusudev&langs_count=8&theme=graywhite" alt="Anurag's GitHub stats" align="right">
+
+![Front-End](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,firebase)
+
+### ﹂ Back-End
+![Back-End](https://skillicons.dev/icons?i=py,c,nodejs,mysql)
+
+### ﹂ Tools & Others
+![Tools](https://skillicons.dev/icons?i=discord,ps,vite,git,vercel,figma)
+
+---
+
+<p align="center" style="font-size:20px"><strong>Contact me:</strong></p>
+<p align="center">
   <a href="https://www.instagram.com/morusu.ink" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=black" height="40" alt="Instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=black" />
   </a>
   <a href="https://www.linkedin.com/in/vin%C3%ADcius-lima-738603284/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
   <a href="https://discord.gg/7zS4wEdtdk" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-FFFFFF?style=for-the-badge&logo=discord&logoColor=black" height="40" alt="Discord logo"  />
+    <img src="https://img.shields.io/badge/Discord-ffffff?style=for-the-badge&logo=discord&logoColor=black" />
   </a>
-  <a href="gvlima.contato@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black" height="40" alt="Gmail logo"  />
+  <a href="mailto:gvlima.contato@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
-  <a href="gvlima.contato@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-FFFFFF?style=for-the-badge" height="40" alt="Gmail logo"  />
+  <a href="https://morusudev.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=githubpages&logoColor=black" />
   </a>
-</div>
+</p>
 
-#
 
-<div style="text-align: center;" align="center">
-  <h3>»「 GitHub Stats 」«</h3><br>
-  <a href="https://github.com/morusudev">
-    <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=morusudev&theme=graywhite&show_icons=true&rank_icon=github&border_radius=10&hide_title=true&icon_color=000000"/>
-  </a>
-   <a href="https://github.com/morusudev">
-    <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morusudev&theme=graywhite&show_icons=true&hide_border=false&layout=compact" />
-  </a>
+<br>
 
-  <!--<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morusudev&langs_count=8&theme=graywhite" alt="Anurag's GitHub stats" align="right"></a>-->
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=morusudev&theme=graywhite&show_icons=true&rank_icon=github&border_radius=10&hide_title=true&icon_color=000000" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morusudev&theme=graywhite&layout=compact&langs_count=8&hide_border=false" />
+</p>
 
-  <!-- ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=morusudev&theme=graywhite&hide_border=false)-->
- 
-</div>
-
-#
-
-<!-- <picture align="center">
+<!-- Snake contribution grid animation (optional) -->
+<!--
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/morusudev/morusudev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/morusudev/morusudev/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/morusudev/morusudev/output/github-contribution-grid-snake.svg">
-</picture> -->
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=100&section=footer"/>
-
-</div>
-
-#
-
-<!-- <div style="text-align: center;" align="center">
-  <h3>»「 GitHub Stats 」«</h3><br>
-  <a href="https://github.com/morusudev">
-    <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=morusudev&theme=graywhite&show_icons=true&rank_icon=github&border_radius=10&hide_title=true&icon_color=000000"/>
-  </a>
-   <a href="https://github.com/morusudev">
-    <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morusudev&theme=graywhite&show_icons=true&hide_border=false&layout=compact" />
-  </a> -->
-
-  <!--<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morusudev&langs_count=8&theme=graywhite" alt="Anurag's GitHub stats" align="right"></a>-->
-
-  <!-- ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=morusudev&theme=graywhite&hide_border=false)-->
- 
-</div>
-
-#
-
-<!-- <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/morusudev/morusudev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/morusudev/morusudev/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/morusudev/morusudev/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/morusudev/morusudev/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/morusudev/morusudev/output/github-contribution-grid-snake.svg">
 </picture>
+-->
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ffffff&section=footer"/>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=100&section=footer"/> -->
