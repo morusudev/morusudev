@@ -1,4 +1,3 @@
-<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ffffff&section=header" /> -->
 <div align="center">
 <img src="assets/1337.gif" width="700px">
 
@@ -65,15 +64,5 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ffffff&section=footer"/>
 
-
-
-<!-- Snake contribution grid animation (optional) -->
-<!--
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/morusudev/morusudev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/morusudev/morusudev/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/morusudev/morusudev/output/github-contribution-grid-snake.svg">
-</picture>
--->
 
 
