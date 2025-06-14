@@ -13,7 +13,9 @@
   | ![](https://github-readme-stats.vercel.app/api?username=morusudev&theme=graywhite&show_icons=true&rank_icon=github&border_radius=10&hide_title=true&icon_color=000000) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=morusudev&theme=graywhite&utcOffset=8) |
 | :-: | :-: | 
 </div>
+<br>
 
+---
 ### <p align="center"><strong>྾ About me ྾</strong></p>
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Index%20Finger%20and%20Thumb%20Crossed%20Light%20Skin%20Tone.png" width="25" height="25" /> Hi! I’m **Vinícius Lima** and I am a *Full-Stack Developer*  
@@ -24,6 +26,7 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" width="25" height="25" /> Check out my [portfolio](https://www.morusudev.com.br)!
 <br><br>
 
+---
 ### <p align="center"><strong>྾ Tech Stack ྾</strong></p>
 
 #### » Front-End:
@@ -39,6 +42,7 @@
 
 <br><br>
 
+---
 ### <p align="center"><strong>྾ Contact me ྾</strong></p>
 <p align="center">
   <a href="https://www.instagram.com/morusu.ink" target="_blank">
