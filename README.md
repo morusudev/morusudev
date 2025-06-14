@@ -14,10 +14,14 @@
 | :-: | :-: | 
 </div>
 
-### <p align="center"><strong>྾ About me ྾</strong></p><br>
-- 🔭 Currently focused on **Front-End Development**
-- 🌱 Learning **TypeScript**, **Next.js**, and enhancing my **UI/UX skills**
-<!-- - 📫 Reach me at: **gvlima.contato@gmail.com** -->
+### <p align="center"><strong>྾ About me ྾</strong></p>
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Index%20Finger%20and%20Thumb%20Crossed%20Light%20Skin%20Tone.png" width="25" height="25" /> Hi! I’m **Vinícius Lima** and I am a *Full-Stack Developer*  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" width="25" height="25" /> Passionate about **Front-End Development** with a strong eye for **UI/UX Design**  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> Currently diving deeper into **TypeScript**, **Next.js**, and **modern JavaScript frameworks**  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" width="25" height="25" /> Focused on building **clean**, **responsive**, and **user-centric** interfaces  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cyclone.png" alt="Cyclone" width="25" height="25" /> Comfortable with tools like **Tailwind CSS**, **Figma**, and **Vite**  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" width="25" height="25" /> Check out my [portfolio](https://www.morusudev.com.br)!
 <br><br>
 
 ### <p align="center"><strong>྾ Tech Stack ྾</strong></p>
