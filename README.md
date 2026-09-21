@@ -56,7 +56,7 @@
   <a href="mailto:gvlima.contato@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=black" height="35"/>
   </a>
-  <a href="https://morusudev.com.br" target="_blank">
+  <a href="https://morusudev.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=githubpages&logoColor=black" height="35"/>
   </a>
 </p>
