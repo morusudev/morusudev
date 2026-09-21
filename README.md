@@ -22,7 +22,7 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> Currently diving deeper into **TypeScript**, **Next.js**, and **modern JavaScript frameworks**  
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" width="25" height="25" /> Focused on building **clean**, **responsive**, and **user-centric** interfaces  
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cyclone.png" alt="Cyclone" width="25" height="25" /> Comfortable with tools like **Tailwind CSS**, **Figma**, and **Vite**  
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" width="25" height="25" /> Check out my [portfolio](https://www.morusudev.vercel.app)!
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" width="25" height="25" /> Check out my [portfolio](https://portfolio-morusu.vercel.app/))!
 <br><br>
 
 ---
@@ -56,7 +56,7 @@
   <a href="mailto:gvlima.contato@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=black" height="35"/>
   </a>
-  <a href="https://morusudev.vercel.app" target="_blank">
+  <a href="https://portfolio-morusu.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=githubpages&logoColor=black" height="35"/>
   </a>
 </p>
