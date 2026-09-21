@@ -22,7 +22,7 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> Currently diving deeper into **TypeScript**, **Next.js**, and **modern JavaScript frameworks**  
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" width="25" height="25" /> Focused on building **clean**, **responsive**, and **user-centric** interfaces  
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cyclone.png" alt="Cyclone" width="25" height="25" /> Comfortable with tools like **Tailwind CSS**, **Figma**, and **Vite**  
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" width="25" height="25" /> Check out my [portfolio](https://www.morusudev.com.br)!
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" width="25" height="25" /> Check out my [portfolio](https://www.morusudev.vercel.app)!
 <br><br>
 
 ---
